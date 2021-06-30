@@ -21,7 +21,12 @@ Nuestra presentenación para enseñar la idea al jurado se puede encontrar aquí
 Para esta presentación reutilizamos recursos de proyectos pasados que realizamos en el curso, los que decidimos retocar se encuentran aquí:
  - [Recursos Prototype ](Recursos_prototype/Gráficas_expo.ipynb) 
 
-Si tienes curiosidad de nuestro proyectos anteriores te compartimos los enlaces correspondientes:
+Si tienes curiosidad de nuestro proyectos anteriores te compartimos los enlaces correspondientes, todos relacionados con eSports y videojuegos:
  - [Proyecto Módulo 2](https://github.com/LKXoro/BEDU-Rstudio-postworks/tree/main/) 
  - [Proyecto Módulo 3](https://github.com/JMCastle98/M3_Procesamiento_de_datos) 
  - [Proyecto Módulo 4](https://github.com/JMCastle98/M4_Analisis_de_Datos_con_Python)
+
+Finalmente, el Jupyter Notebook que contiene nuestro proyecto final para el Prototype es el siguiente:
+ - [Prototype](Prototype_Equipo_07/Proyecto_Prediccion_LoL_M5.ipynb)
+
+En el puedes encontrar datos que hacen relevantes al panorama de los eSports, por que elegimos League of Legends y el proceso de creación de los algoritmos de Machine Learning que permiten predecir el resultado de una partida.
