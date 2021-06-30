@@ -1,2 +1,2 @@
 # Data_Science_BEDU_Prototype
-Repositorio del equipo 7  
+Repositorio del equipo 12  
