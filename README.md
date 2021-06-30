@@ -29,4 +29,6 @@ Si tienes curiosidad de nuestro proyectos anteriores te compartimos los enlaces 
 Finalmente, el Jupyter Notebook que contiene nuestro proyecto final para el Prototype es el siguiente:
  - [Prototype](Prototype_Equipo_07/Proyecto_Prediccion_LoL_M5.ipynb)
 
-En el puedes encontrar datos que hacen relevantes al panorama de los eSports, por que elegimos League of Legends y el proceso de creación de los algoritmos de Machine Learning que permiten predecir el resultado de una partida.
+En el puedes encontrar datos que hacen relevantes al panorama de los eSports, por que elegimos League of Legends y el proceso de creación de los algoritmos de Machine Learning que permiten predecir el resultado de una partida. Adicionalmente compartimos enlaces de Google Drive para los datasets base del Prototype:
+- [Datos de partidas de LoL en 2020](https://drive.google.com/file/d/1P41eRE2j_CDkGRMr_IigfztnXs699kvo/view?usp=sharing)
+- [Datos de partidas de LoL en 2021](https://drive.google.com/file/d/1Vw31tCkZkAlg2dK9-6FYj2H5HFyLZYOo/view?usp=sharing)
